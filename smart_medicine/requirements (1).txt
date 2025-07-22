@@ -1,0 +1,6 @@
+streamlit
+pytesseract
+pyttsx3
+pyzbar
+opencv-python
+Pillow

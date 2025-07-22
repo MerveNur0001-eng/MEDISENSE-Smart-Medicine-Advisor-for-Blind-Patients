@@ -1,0 +1,26 @@
+[
+    {
+        "name": "PAROL",
+        "type": "Tablet",
+        "usage_instructions": "Take 3 times a day, after meals.",
+        "side_effects": "Dizziness, nausea."
+    },
+    {
+        "name": "Aferin",
+        "type": "Syrup",
+        "usage_instructions": "One dose in the morning and one in the evening.",
+        "side_effects": "Drowsiness, dry mouth."
+    },
+    {
+        "name": "CALPOL",
+        "type": "Syrup",
+        "usage_instructions": "Take 3 times a day, after meals.",
+        "side_effects": "Dizziness, nausea."
+    },
+    {
+        "name": "DOLOREX",
+        "type": "Tablet",
+        "usage_instructions": "One dose in the morning and one in the evening.",
+        "side_effects": "Drowsiness, dry mouth."
+    }
+]
