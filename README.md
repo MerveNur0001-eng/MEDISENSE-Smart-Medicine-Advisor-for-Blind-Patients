@@ -110,7 +110,7 @@ Start the Streamlit application by running this command from the project directo
 
 ```bash
 streamlit run medisense_app.py
-
+```
 
 ## License
 This project is for educational and non-commercial use.
