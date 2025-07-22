@@ -96,13 +96,11 @@ Before running the application, ensure you have the following installed:
     ]
     ```
 
-![Output Final](images/output.jpeg)
+
 
 ## EXAMPLES (you can use them for test)
 
-![Parol Barcode](images/parol_barcode.jpg)
 
-![Parol Text](images/parol_text.jpg)
 
 ### Running the Application
 
